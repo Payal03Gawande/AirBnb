@@ -81,30 +81,43 @@ Create a Woking_df with all the essential columns we requried for analysis.
 **Popular Neighborhoods:**
 Manhattan is the most popular neighborhood on Airbnb, followed by Brooklyn.
 Bedford-Stuyvesant has the highest number of Airbnb listings, while Williamsburg is the second highest.
+
 **Price and Service Fees:**
 There is a strong positive correlation (1) between the price of listings and the associated service fees.
-**Reviews and Average Reviews per Month:** A moderate positive correlation (0.59) exists between the number of reviews a listing has received and the average number of reviews per month.
+**Reviews and Average Reviews per Month:** 
+ A moderate positive correlation (0.59) exists between the number of reviews a listing has received and the average number of reviews per month.
+ 
 **Pricing Trends:**
 The highest average prices were observed between 2012 and 2014, followed by a significant decrease after 2014.
+
 **Property Types by Neighborhood:**
 The most prevalent property type in Manhattan is the entire room/apartment, while private rooms are more common in Brooklyn.
+
 **Factors Affecting Pricing:**
 The pricing of listings depends on factors such as room type, neighborhood, and minimum number of bookings.
+
 **Host IDs and Reviews:**
 There are 102,052 unique host IDs for the given reviews, with one host (ID: 20032806094) having the highest average reviews per month at 90.00.
 The top two neighborhood groups based on reviews per month are Brooklyn (46,866.76) and Manhattan (45,222.96), while the top two neighborhood groups based on the number of reviews are Brooklyn (1,189,991.0) and Manhattan (1,050,741.0).
+
 **Price Variation by Property Type:**
 Hotel rooms tend to be more expensive than apartment or house rentals.
+
 **Neighborhood Rate Comparisons:**
 Certain neighborhoods like "New Dorp," "Fort Wadsworth," and "Chelsea, Staten Island" have higher Airbnb rates compared to "Rossville," "Spuyten Duyvil," and "Lighthouse Hill."
+
 **Pricing and Minimum Booking Requirement:**
 Listings with a minimum booking requirement of more than a year generally have higher prices.
+
 **Instant Booking and Cancellation Policies:**
 Approximately 49.7% of customers use Instant booking, while 50.3% do not.
 The cancellation policy distribution shows that 33.5% have a moderate policy, and 33.2% have either strict or flexible policies.
+
 **Construction Year Distribution:**
 The highest value counts for construction year occur in 2014, while the minimum counts are in 2016.
+
 **Popular Property Types:**
 The most popular property type is "Home away from home," followed by "Hillside Hotel."
+
 **Popular Host Names:**
 Among hosts, the most popular name is Michael, followed by David.
